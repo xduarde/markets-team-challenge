@@ -27,8 +27,6 @@ The follow command deploys the environment and initialize the pipeline:
 docker compose up --build
 ```
 
-![alt text](/img/denue-diagram.png)
-
 In order to monitor the ingest_crypto_data, access the Airflow Web Server in:
 
 > **[http://localhost:8080/](http://localhost:8080/)** 
